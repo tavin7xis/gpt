@@ -1,50 +1,50 @@
 export const perguntas = [
     {
-        enunciado: "Em um dia após seu jogo de futebol um homem bem vestido ",
+        enunciado: "Sua mãe te coloca de castigo por não sair de casa e tira seu videogame e celular, mas então te coloca para treinar futebol, com que intensidade é o treino?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Não leva o treino a sério, mas vai.",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Você no inicio não leva o treino a sério, mas com o tempo gosta do esporte e se dedica.",
+                    "Você não se dedica, e apenas se diverte com o futebol."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Você leva o treino a sério e se dedica.",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Você leva seus treinos a sério por um tempo, mas se cansa e sua dedicação abaixa.",
+                    "Você leva os treinos a sério e acaba se destacando entre os outros."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Seu treinador faz uma reunião em equipe para decidir quem será o novo capitão, e pergunta quem quer disputar isso, o que você faz?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Você se oferece para ser o capitão",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "O professor viu sua dedicação e sua quaidade e te escolhe para ser o novo capitão.",
+                    "O professor gosta da sua confiança para se oferecer a ser capitão, mas sua falta de foco nos treinos faz você não ser escolhido.",
+                    "O professor finge não ter visto você se oferecendo para ser capitão pois não está indo aos treinos."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Você pensa não estar apto a isso.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Seu professor conversa com você em particular e fala que vai te deixar como capitão pelos seus esforços.",
+                    "Seu professor achou válido você não se oferecer, pois você não está focado",
+                    "Seu professor achou válido você não se oferecer, pois você não está focado"
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Você conta para a sua mãe ",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
