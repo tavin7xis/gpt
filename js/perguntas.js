@@ -5,7 +5,6 @@ export const perguntas = [
             {
                 texto: "Não leva o treino a sério, mas vai.",
                 afirmacao: [
-                    "Você no inicio não leva o treino a sério, mas com o tempo gosta do esporte e se dedica.",
                     "Você não se dedica, e apenas se diverte com o futebol."
                 ],
                 proxima: 1,
@@ -13,7 +12,6 @@ export const perguntas = [
             {
                 texto: "Você leva o treino a sério e se dedica.",
                 afirmacao: [
-                    "Você leva seus treinos a sério por um tempo, mas se cansa e sua dedicação abaixa.",
                     "Você leva os treinos a sério e acaba se destacando entre os outros."
                 ],
                 proxima: 1,
@@ -26,18 +24,15 @@ export const perguntas = [
             {
                 texto: "Você se oferece para ser o capitão",
                 afirmacao: [
-                    "O professor viu sua dedicação e sua quaidade e te escolhe para ser o novo capitão.",
+                    "O professor viu sua dedicação e sua qualidade e te escolhe para ser o novo capitão.",
                     "O professor gosta da sua confiança para se oferecer a ser capitão, mas sua falta de foco nos treinos faz você não ser escolhido.",
-                    "O professor finge não ter visto você se oferecendo para ser capitão pois não está indo aos treinos."
                 ],
                 proxima: 2,
             },
             {
                 texto: "Você pensa não estar apto a isso.",
                 afirmacao: [
-                    "Seu professor conversa com você em particular e fala que vai te deixar como capitão pelos seus esforços.",
-                    "Seu professor achou válido você não se oferecer, pois você não está focado",
-                    "Seu professor achou válido você não se oferecer, pois você não está focado"
+                    "Seu professor pensou em conversar com você, mas ignora"
                 ],
                 proxima: 2,
             },
