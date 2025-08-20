@@ -71,7 +71,7 @@ export const perguntas = [
             {
                 texto: "Você chuta.",
                 afirmacao: [
-                    "Você erra",
+                    "Você erra e seu time perde",
                     "Você faz o gol,seu time ganha e você é convidado para jogar na europa."
                 ],
                 proxima: 4,
