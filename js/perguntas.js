@@ -16,7 +16,7 @@ export const perguntas = [
                     "Você leva seus treinos a sério por um tempo, mas se cansa e sua dedicação abaixa.",
                     "Você leva os treinos a sério e acaba se destacando entre os outros."
                 ],
-                proxima: 2,
+                proxima: 1,
             },
         ]
     },
@@ -30,7 +30,7 @@ export const perguntas = [
                     "O professor gosta da sua confiança para se oferecer a ser capitão, mas sua falta de foco nos treinos faz você não ser escolhido.",
                     "O professor finge não ter visto você se oferecendo para ser capitão pois não está indo aos treinos."
                 ],
-                proxima: 3,
+                proxima: 2,
             },
             {
                 texto: "Você pensa não estar apto a isso.",
@@ -39,7 +39,7 @@ export const perguntas = [
                     "Seu professor achou válido você não se oferecer, pois você não está focado",
                     "Seu professor achou válido você não se oferecer, pois você não está focado"
                 ],
-                proxima: 4,
+                proxima: 2,
             },
         ]
     },
@@ -51,14 +51,14 @@ export const perguntas = [
                 afirmacao: [
                     "Você continua focado em seu objetivo."
                 ],
-                proxima: 5,
+                proxima: 3,
             },
             {
                 texto: "Você volta a jogar videogame.",
                 afirmacao: [
                     "Você se vicia e perde seu foco no futebol."
                 ],
-                proxima: 6,
+                proxima: 3,
             },
         ]
     },
@@ -71,7 +71,7 @@ export const perguntas = [
                     "Ele erra e seu time perde.",
                     "Você erra o passe e seu time perde."
                 ],
-                proxima: 7,
+                proxima: 4,
             },
             {
                 texto: "Você chuta.",
@@ -79,7 +79,7 @@ export const perguntas = [
                     "Você erra",
                     "Você faz o gol,seu time ganha e você é convidado para jogar na europa."
                 ],
-                proxima: 8,
+                proxima: 4,
             },
         ]
     }]
